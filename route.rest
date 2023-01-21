@@ -1,0 +1,13 @@
+GET http://localhost:3000/messages
+
+# asdui
+
+POST http://localhost:3000/sendmessage
+Content-Type: application/json
+
+{   "name":"aiusjdk;las",
+"phone":"8465146851",
+    "message":"asjaasdjklasdhsdjkl;asddk"
+}
+ 
+
